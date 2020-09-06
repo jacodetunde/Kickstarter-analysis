@@ -25,6 +25,8 @@ In general, the pattern of movements of the outcomes accross the year shows that
 ##### Insights from Outcomes based on Goals 
 It can be deduced from this analysis that, the lower the goals, the higher the success rate and the higher the goal the lower the success rate.
 However when the goal was between 40000 and 50000 the success rate was higher than the failed rate, this might be due to the income level of the target group that made the pledge. As a result of that there is a need for an additional column on the income level of the persons that pledges towards the Kickstarter campaign for full picture of the outcomes.
+##### Limitation of the Analysis
+Additional information is needed about the income level of the people who pledged for each subcategory of campaign in order to find the real relationship between goala and the outcomes. 
 
 
 
