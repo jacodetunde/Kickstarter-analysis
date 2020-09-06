@@ -21,12 +21,13 @@ The second challenge was confusion between using ROUND() or Percentage metric. U
 ##### Insights from Theater Outcomes based on Launch Date Analysis
 1. The trend of Theater Outcomes based on Launch Date is seasonal in nature. The month of May is the Theater most successful campaign. With a fewer pick in february and October, while Theater campaign had relatively no success in December. 
 2. It could also be observed that there were no cancellation of campaign in October with fewer successes.
-In general, the pattern of movements of the outcomes accross the year shows that there is a positive correlation between failed and successes with the exception of the December. Though, this claim can be investigated further with the aid of regression analysis in order to confirm that.
+In general, the pattern of movements of the outcomes accross the year shows that there is a positive correlation between failed and successes with the exception of the December. Though, this claim can be investigated further with the aid of advanced statistical analysis in order to confirm that.
 ##### Insights from Outcomes based on Goals 
-It can be deduced from this analysis that, the lower the goals, the higher the success rate and the higher the goal the lower the success rate.
-However when the goal was between 40000 and 50000 the success rate was higher than the failed rate, this might be due to the income level of the target group that made the pledge. As a result of that there is a need for an additional column on the income level of the persons that pledges towards the Kickstarter campaign for full picture of the outcomes.
+It can be deduced from this analysis that, the lower the goals for the plays' campaign, the higher the success rate and the higher the goal the lower the success rate.
+However when the goal was between 38000 and 44000 the success rate was higher than the failed rate, this might be due to the income level or preferences  of the target group that made the pledge. As a result of that there is a need for an additional column on the income level of the persons that pledges towards the Kickstarter campaign for full picture of the outcomes. 
 ##### Limitation of the Analysis
-Additional information is needed about the income level of the people who pledged for each subcategory of campaign in order to find the real relationship between goala and the outcomes. 
+Additional information is needed about the income level of the people who pledged for each subcategory of campaign in order to find the real relationship between goals and the outcomes. 
+Advanced statistical may be employed for further investigation of relationship between the goals, outcomes and launch dates.
 
 
 
